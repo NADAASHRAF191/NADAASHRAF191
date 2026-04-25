@@ -30,7 +30,7 @@
 ### 📊 GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=NADAASHRAF191&show_icons=true&theme=radical" width="47%"/> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=username=NADAASHRAF191&layout=compact&theme=radical" width="47%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NADAASHRAF191&layout=compact&theme=radical" width="47%"/>
 
 ---
 
