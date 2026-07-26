@@ -30,16 +30,13 @@
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NADAASHRAF191&theme=radical" width="95%" alt="GitHub Profile Summary"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NADAASHRAF191&theme=radical" width="85%" alt="GitHub Profile Summary"/>
 
 <br><br>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NADAASHRAF191&theme=radical" width="45%" alt="Repositories per Language"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NADAASHRAF191&theme=radical" width="45%" alt="Most Commit Language"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NADAASHRAF191&theme=radical" width="45%" alt="Top Languages"/>
 
 </div>
-
 ### 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nada--ashraf--09aa24263-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nada-ashraf-09aa24263)  
