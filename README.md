@@ -26,13 +26,17 @@
 ![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
 ---
-
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NADAASHRAF191&show_icons=true&theme=radical" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NADAASHRAF191&layout=compact&theme=radical" width="47%" />
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=NADAASHRAF191&show_icons=true&theme=radical&hide_border=true" alt="Nada's GitHub Stats" />
+
+<br><br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NADAASHRAF191&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+
+</div></p>
 
 ### 📫 Contact Me
 
