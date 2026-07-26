@@ -30,13 +30,15 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=NADAASHRAF191&show_icons=true&theme=radical&hide_border=true" alt="Nada's GitHub Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NADAASHRAF191&theme=radical" width="95%" alt="GitHub Profile Summary"/>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NADAASHRAF191&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NADAASHRAF191&theme=radical" width="45%" alt="Repositories per Language"/>
 
-</div></p>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NADAASHRAF191&theme=radical" width="45%" alt="Most Commit Language"/>
+
+</div>
 
 ### 📫 Contact Me
 
