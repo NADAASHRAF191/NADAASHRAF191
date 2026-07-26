@@ -28,15 +28,12 @@
 ---
 ### 📊 GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NADAASHRAF191&show_icons=true&hide_border=true&theme=default" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NADAASHRAF191&layout=compact&hide_border=true&theme=default" width="48%" />
+</p>
+---
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NADAASHRAF191&theme=radical" width="85%" alt="GitHub Profile Summary"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NADAASHRAF191&theme=radical" width="45%" alt="Top Languages"/>
-
-</div>
 ### 📫 Contact Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-nada--ashraf--09aa24263-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nada-ashraf-09aa24263)  
