@@ -28,10 +28,17 @@
 ---
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NADAASHRAF191&show_icons=true&hide_border=true&theme=default" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NADAASHRAF191&layout=compact&hide_border=true&theme=default" width="48%" />
-</p>
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=NADAASHRAF191&theme=radical" width="85%" alt="GitHub Profile Summary"/>
+
+<br>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NADAASHRAF191&theme=radical" width="40%" alt="Repositories per Language"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NADAASHRAF191&theme=radical" width="40%" alt="Most Commit Language"/>
+
+</div>
 ---
 
 ### 📫 Contact Me
